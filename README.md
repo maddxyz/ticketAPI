@@ -10,7 +10,7 @@ This project implements a RESTful API for managing support tickets, including cr
 
 2.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/maddxyz/ticketAPI
     cd ticketsapi
     ```
 
